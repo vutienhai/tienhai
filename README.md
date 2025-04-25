@@ -1,2 +1,0 @@
-# tienhai
-bai tap
